@@ -1,0 +1,13 @@
+aiogram==3.11.0
+aiogram_dialog==2.1.0
+cachetools==5.3.2
+environs==11.0.0
+fluent_compiler==0.3
+fluentogram==1.1.7
+Pillow==10.0.1
+pydantic==2.8.2
+SQLAlchemy==2.0.31
+
+requests<2.29.0
+urllib3<2.0
+redis==5.0.8
